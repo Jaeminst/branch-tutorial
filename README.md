@@ -1,6 +1,6 @@
 # branch-tutorial
 브랜치 튜토리얼
-
+```
 kimck@KIMCK:~/branch-tutorial$ git status
 현재 브랜치 ck
 커밋하도록 정하지 않은 변경 사항:
@@ -152,3 +152,4 @@ kimck@KIMCK:~/branch-tutorial$ git branch
   develop
   main
 kimck@KIMCK:~/branch-tutorial$
+```
